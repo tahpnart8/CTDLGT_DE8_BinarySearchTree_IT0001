@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\DangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyGD.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\QuanLyGD.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyGD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\QuanLyGD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\HoSoTK.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\HoSoTK.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\HoSoTK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\HoSoTK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangNhap.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\DangNhap.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangKy.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\DangKy.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangKy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\DangKy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\ChitietTK.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\ChitietTK.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\ChitietTK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\ChitietTK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\BinarySearchTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\BinarySearchTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CTDLGT_De8_BinarySearchTree\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\[DAIHOC]\\NAM-1\\INFORMATION-TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\FINOVATEBANK.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangNhap.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\DangNhap.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangNhap.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\DangNhap.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:44:59.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Transaction.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\Transaction.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Transaction.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\Transaction.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:39:20.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyHoSo.Designer.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.Designer.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.Designer.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.Designer.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.Designer.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAwAMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:42.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyHoSo.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\QuanLyHoSo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:40.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLyGD.Designer.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyGD.Designer.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\QuanLyGD.Designer.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyGD.Designer.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\QuanLyGD.Designer.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAAwIoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:37.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyGD.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyGD.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\QuanLyGD.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\QuanLyGD.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\QuanLyGD.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAwOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Program.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\Program.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Program.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoSoTK.Designer.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\HoSoTK.Designer.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\HoSoTK.Designer.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\HoSoTK.Designer.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\HoSoTK.Designer.cs",
+              "ViewState": "AgIAAAUEAAAAAAAAAAAAwCYEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:32.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoSoTK.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\HoSoTK.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\HoSoTK.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\HoSoTK.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\HoSoTK.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAAwAUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:45:03.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\DangNhap.Designer.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangNhap.Designer.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\DangNhap.Designer.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAwOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:25.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangKy.Designer.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangKy.Designer.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\DangKy.Designer.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangKy.Designer.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\DangKy.Designer.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAAAIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangKy.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\DangKy.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\DangKy.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\DangKy.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:18.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Customer.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\Customer.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Customer.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\Customer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:37:56.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CTDLGT_De8_BinarySearchTree.csproj",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T02:51:09.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CTDLGT_De8_BinarySearchTree.csproj.user",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj.user",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj.user",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj.user",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\CTDLGT_De8_BinarySearchTree.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-04-15T02:51:12.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChitietTK.Designer.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\ChitietTK.Designer.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\ChitietTK.Designer.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\ChitietTK.Designer.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\ChitietTK.Designer.cs",
+              "ViewState": "AgIAACwCAAAAAAAAAAAAwE0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:45:11.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChitietTK.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\ChitietTK.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\ChitietTK.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\ChitietTK.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\ChitietTK.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:03.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\BinarySearchTree.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\BinarySearchTree.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\BinarySearchTree.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAAB0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:51:01.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Account.cs",
+              "RelativeDocumentMoniker": "CTDLGT_De8_BinarySearchTree\\Account.cs",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION_TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\Account.cs",
+              "RelativeToolTip": "CTDLGT_De8_BinarySearchTree\\Account.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:38:36.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FINOVATEBANK.png",
+              "DocumentMoniker": "D:\\[DAIHOC]\\NAM-1\\INFORMATION-TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\FINOVATEBANK.png",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\INFORMATION-TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\FINOVATEBANK.png",
+              "ToolTip": "D:\\[DAIHOC]\\NAM-1\\INFORMATION-TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\FINOVATEBANK.png",
+              "RelativeToolTip": "..\\..\\..\\..\\INFORMATION-TECHNOLOGY\\HK2\\Data_Structure_and_Algorithm\\CTDLGT_De8_BinarySearchTree(2)\\CTDLGT_De8_BinarySearchTree\\FINOVATEBANK.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-15T02:51:27.281Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
