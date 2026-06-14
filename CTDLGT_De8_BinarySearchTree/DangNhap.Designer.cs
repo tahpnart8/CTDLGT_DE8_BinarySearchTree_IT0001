@@ -27,7 +27,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DangNhap));
             panel1 = new Panel();
             Password = new TextBox();
             Account = new TextBox();
@@ -195,7 +194,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImage = Properties.Resources.FINOVATEWallet;
             BackgroundImageLayout = ImageLayout.None;
             ClientSize = new Size(869, 485);
             Controls.Add(panel2);

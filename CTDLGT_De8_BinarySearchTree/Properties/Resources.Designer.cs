@@ -73,16 +73,6 @@ namespace CTDLGT_De8_BinarySearchTree.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FINOVATEBANK {
-            get {
-                object obj = ResourceManager.GetObject("FINOVATEBANK", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap FINOVATEWallet {
             get {
                 object obj = ResourceManager.GetObject("FINOVATEWallet", resourceCulture);
@@ -96,26 +86,6 @@ namespace CTDLGT_De8_BinarySearchTree.Properties {
         internal static System.Drawing.Bitmap quanly {
             get {
                 object obj = ResourceManager.GetObject("quanly", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Screenshot_2024_12_08_022613 {
-            get {
-                object obj = ResourceManager.GetObject("Screenshot 2024-12-08 022613", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Screenshot_2024_12_11_223254 {
-            get {
-                object obj = ResourceManager.GetObject("Screenshot 2024-12-11 223254", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
